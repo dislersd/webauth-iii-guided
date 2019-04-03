@@ -2,7 +2,7 @@
 
 Guided project for **Web Auth III** Module.
 
-## Prerequisites
+## Prerequisites 
 
 - [SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download) installed.
 
